@@ -1,5 +1,6 @@
 # Holi-app
 Poke Your Friends with flower !
+Download Expo Go and use this url to checkout the animation : exp://exp.host/@sonalibiswas242/Holi-app?release-channel=default
 
 <p>
 <table>
