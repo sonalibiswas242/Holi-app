@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "Holi-app",
+    "name": "Holi App",
     "slug": "Holi-app",
+    "description": "Let's play Holi !",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Flower.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
